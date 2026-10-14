@@ -1,0 +1,7 @@
+python3 generate_scout_report_multilingual.py confor.csv Scout_confor_es.html es corfo.png concierto.png
+
+python3 scout_report_final.py umkc.csv Scout_corfo_sp.html umkc.html en corfo.png concierto.png
+
+python3 scout_report_final.py gwh.csv Scout_corfo_sp.html GWH.html en gwh.png concierto.png
+
+python3 scout_report_final.py confor.csv Scout_corfo_sp.html report.html en corfo.png concierto.png
